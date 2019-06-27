@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6bf5fe3-0027-437c-801a-71db4d6d231d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="226" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="135" column="46" selection-start-line="135" selection-start-column="46" selection-end-line="135" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="341" column="39" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTestTask1.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/DataMungerStep1-boilerplate.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1371" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataMungerStep1-boilerplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataMungerStep1_Boilerplate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="datamunger" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/junitdemo" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DataMungerTest">
+    <configuration name="DataMungerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testGetColumnsWithMultipleWhereGroupByClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClauseFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testGetColumnsWithMultipleWhereGroupByClauseFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testGetColumnsWithThreeWhereOrClause" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testGetColumnsWithThreeWhereOrClause" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataMungerTest.testGetColumnsWithThreeWhereOrClauseFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataMungerStep1-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.datamunger.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.datamunger.test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.datamunger.test.DataMungerTest" />
+      <option name="METHOD_NAME" value="testGetColumnsWithThreeWhereOrClauseFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataMungerTest" />
+        <item itemvalue="JUnit.DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" />
+        <item itemvalue="JUnit.DataMungerTest.testGetColumnsWithMultipleWhereGroupByClauseFailure" />
+        <item itemvalue="JUnit.DataMungerTest.testGetColumnsWithThreeWhereOrClauseFailure" />
+        <item itemvalue="JUnit.DataMungerTest.testGetColumnsWithThreeWhereOrClause" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6bf5fe3-0027-437c-801a-71db4d6d231d" name="Default Changelist" comment="" />
+      <created>1561529154710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561529154710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereClause - 2019.06.27 at 11h 46m 21s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereClauseFailure - 2019.06.27 at 11h 46m 25s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereClauseFailure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereOrClause - 2019.06.27 at 11h 46m 29s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereOrClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereOrClauseFailure - 2019.06.27 at 11h 46m 36s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereOrClauseFailure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithThreeWhereOrClause - 2019.06.27 at 11h 46m 40s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithThreeWhereOrClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithThreeWhereOrClauseFailure - 2019.06.27 at 11h 46m 45s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithThreeWhereOrClauseFailure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause - 2019.06.27 at 11h 46m 54s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClauseFailure - 2019.06.27 at 11h 47m 15s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClauseFailure" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause - 2019.06.27 at 11h 47m 59s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause - 2019.06.27 at 11h 49m 08s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32952252" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTestTask2_testGetColumnNames.ic" NAME="DataMungerTestTask2.testGetColumnNames Coverage Results" MODIFIED="1561541694149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause.ic" NAME="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause Coverage Results" MODIFIED="1561548815968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTest_testGetWithGroupByClause.ic" NAME="DataMungerTest.testGetWithGroupByClause Coverage Results" MODIFIED="1561558895724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTestTask1_testGetSplitStringsFailure.ic" NAME="DataMungerTestTask1.testGetSplitStringsFailure Coverage Results" MODIFIED="1561544669799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTest_testGetSplitStrings.ic" NAME="DataMungerTest.testGetSplitStrings Coverage Results" MODIFIED="1561548895171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTestTask1_testGetSplitStrings.ic" NAME="DataMungerTestTask1.testGetSplitStrings Coverage Results" MODIFIED="1561544651539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTestTask2_testGetConditions.ic" NAME="DataMungerTestTask2.testGetConditions Coverage Results" MODIFIED="1561546938838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTestTask1_testGetBaseQuery.ic" NAME="DataMungerTestTask1.testGetBaseQuery Coverage Results" MODIFIED="1561559714082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTest_testGetAggregateFunctions.ic" NAME="DataMungerTest.testGetAggregateFunctions Coverage Results" MODIFIED="1561550921365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataMungerStep1_boilerplate$DataMungerTest_testGetColumnsWithMultipleWhereAndOrderByClauseFailure.ic" NAME="DataMungerTest.testGetColumnsWithMultipleWhereAndOrderByClauseFailure Coverage Results" MODIFIED="1561550904460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.stackroute.datamunger.test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTestTask3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="56" column="35" lean-forward="true" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTestTask2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTestTask4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTestTask1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="341" column="39" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="135" column="46" selection-start-line="135" selection-start-column="46" selection-end-line="135" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
