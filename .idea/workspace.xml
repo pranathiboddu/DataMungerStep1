@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6bf5fe3-0027-437c-801a-71db4d6d231d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
+            <state relative-caret-position="2025">
               <caret line="135" column="46" selection-start-line="135" selection-start-column="46" selection-end-line="135" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="341" column="39" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+            <state relative-caret-position="60">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,9 +123,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/junitdemo" />
   </component>
   <component name="RunDashboard">
@@ -246,12 +246,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereClause - 2019.06.27 at 11h 46m 21s.xml">
-      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereClause" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereClauseFailure - 2019.06.27 at 11h 46m 25s.xml">
-      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereClauseFailure" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereOrClause - 2019.06.27 at 11h 46m 29s.xml">
       <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereOrClause" configurationId="JUnit" />
     </history-entry>
@@ -276,12 +270,18 @@
     <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause - 2019.06.27 at 11h 49m 08s.xml">
       <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataMungerTest_testGetColumnsWithMultipleWhereGroupByClause - 2019.06.27 at 11h 49m 31s.xml">
+      <configuration name="DataMungerTest.testGetColumnsWithMultipleWhereGroupByClause" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataMungerTest - 2019.06.27 at 11h 49m 58s.xml">
+      <configuration name="DataMungerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,7 +290,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,17 +406,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="341" column="39" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+        <state relative-caret-position="2025">
+          <caret line="135" column="46" selection-start-line="135" selection-start-column="46" selection-end-line="135" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/DataMunger.java">
+    <entry file="file://$USER_HOME$/IdeaProjects/JavaProgramsexercise2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/datamunger/test/DataMungerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="135" column="46" selection-start-line="135" selection-start-column="46" selection-end-line="135" selection-end-column="46" />
+        <state relative-caret-position="60">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
